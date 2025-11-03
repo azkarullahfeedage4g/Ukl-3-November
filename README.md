@@ -1,7 +1,5 @@
-# Ukl-3-November
-Nomor 1
-Fungsi Program :
-Program nomor 1 berfungsi untuk menghitung biaya kirim atau ekspedisi berdasarkan berat paket, jarak pengiriman paket, dan volume paket (yang di hitung melalui panjang x lebar x tinggi paket).
+# Ukl-3-November Soal No 1
+Program ini berfungsi untuk menghitung biaya kirim atau ekspedisi berdasarkan berat paket, jarak pengiriman paket, dan volume paket (yang di hitung melalui panjang x lebar x tinggi paket).
 Selain itu, Program ini juga menambahkan biaya tambahan sebesar Rp. 50.000 jika volume paket melbihi 100cm^3
 Cara Kerja Program :
 1. Masukkan nilai berat, jarak pengiriman, panjang, lebar dan tinggi paket
