@@ -10,5 +10,5 @@ Cara Kerja Program :
 4. Hitung Biaya Utama (Berat Paket x Biaya Pengiriman Per Kg)
 5. Cek Volume paket, jika lebih dari 100cm^3 maka ada tambahan biaya Rp. 50.000
 6. Tampilkan hasil perhitungan dan total biaya pengiriman di akhir
-<img src=<img width="1335" height="800" alt="UKL2output" src="https://github.com/user-attachments/assets/cc345ecb-b174-4507-8128-a2244777d86b" />
+<img src=<img width="772" height="922" alt="output soal 1" src="https://github.com/user-attachments/assets/d50c8fde-2e08-4531-a7de-feda5666411d" />
 >
